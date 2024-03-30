@@ -731,7 +731,7 @@
 .d-none {
   display: none !important;
 }
-
+span.span a,
 .clr-green {
   color: #59ff30;
 }
@@ -741,4 +741,11 @@
 
 .vs {
   font-size: 3rem;
+}
+
+
+
+.text-wrapper-3.mcap {
+  font-size: 1.6rem;
+  color: #fdfdfd;
 }
